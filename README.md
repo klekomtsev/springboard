@@ -6,6 +6,4 @@ http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 • data_wrangling_json/ contains solutions to the mini-project on data warangling using JSON files
 
-If Jupyter notebook is not rendering correctly please use:
-
-https://nbviewer.jupyter.org
+If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
