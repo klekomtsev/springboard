@@ -8,4 +8,6 @@ http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 • sql_mini_project/ -> solutions to the mini-project on using SQL for data manipulation tasks: filtering, aggregating, joining.
 
+• api_mini_project/ -> solutions to the mini-project on interacting with Quandl API.
+
 If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
