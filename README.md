@@ -10,7 +10,9 @@ http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 • api_mini_project/ -> mini-project on interacting with Quandl API.
 
-• inferential_statistics_frequentist_mini_project/ -> mini-project on using frequentist statistical approach to analyze Sample Insurance Claim Prediction Dataset:
+• inferential_statistics_frequentist_mini_project/ -> mini-project on using frequentist statistical approach to analyze Sample Insurance Claim Prediction Dataset.
+
+• bootstrap_inference_mini_project/ -> mini-project on using bootstrapping and permutation techniques for hypothesis testing on Sample Insurance Claim Prediction Dataset.
 
 https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
