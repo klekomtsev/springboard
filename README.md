@@ -1,8 +1,8 @@
 # Data Science Career Track
 
-• Capstone1_Data_Wrangling/ -> prelimianry data wrangling for the credit card defaults dataset: 
-
-http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
+• capstone1/ -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
+ 
+Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 • data_wrangling_json/ -> mini-project on data warangling using JSON files.
 
