@@ -8,26 +8,26 @@
 
 Mastering skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
 
-• capstone1/ -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
+**capstone1/** -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
  
 Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
-• data_wrangling_json/ -> mini-project on data warangling using JSON files.
+**data_wrangling_json/** -> data warangling using JSON files.
 
-• sql_mini_project/ -> mini-project on using SQL for data manipulation tasks: filtering, aggregating, joining.
+**sql_mini_project/** -> SQL: filtering, aggregating, joining.
 
-• api_mini_project/ -> mini-project on interacting with Quandl API.
+**api_mini_project/** -> interaction with Quandl API for basic data analysis.
 
-• inferential_statistics_frequentist_mini_project/ -> mini-project on using frequentist statistical approach to analyze Sample Insurance Claim Prediction Dataset.
+**inferential_statistics_frequentist_mini_project/** -> frequentist statistical approach to analyze Sample Insurance Claim Prediction Dataset.
 
-• bootstrap_inference_mini_project/ -> mini-project on using bootstrapping and permutation techniques for hypothesis testing on Sample Insurance Claim Prediction Dataset.
+**bootstrap_inference_mini_project/** -> bootstrapping and permutation techniques for hypothesis testing on Sample Insurance Claim Prediction Dataset.
 
-• bayesian_inference/ -> mini-project on using pymc3 module for bayesian inference on Sample Insurance Claim Prediction Dataset.
+**bayesian_inference/** -> pymc3 module for bayesian inference on Sample Insurance Claim Prediction Dataset.
 
 https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
-• linear_regression/ -> mini-project on theory and applications of linear regression.
+**linear_regression/** -> theory and applications of linear regression.
 
-• logistic_regression/ -> mini-project on theory and applications of logistic regression.
+**logistic_regression/** -> theory and applications of logistic regression.
 
 If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
