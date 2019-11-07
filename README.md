@@ -1,6 +1,6 @@
-# Springboard - Data Science Bootcamp
+# Springboard - Data Science Bootcamp (in progress)
 
-550+ hours of hands-on curriculum over at least 6 months' timeline:
+550+ hours of hands-on curriculum over 6-months timeline:
 
 - 1:1 industry expert mentor oversight, 
 
