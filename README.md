@@ -1,4 +1,5 @@
-# Springboard - Data Science Bootcamp (in progress)
+#
+Springboard - Data Science Bootcamp (in progress)
 
 550+ hours of hands-on curriculum over 6-months timeline:
 
@@ -26,8 +27,10 @@ Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
-**linear_regression/** -> theory and applications of linear regression.
+**linear_regression/** -> theory and applications of linear regression on Boston Housing Dataset.
 
-**logistic_regression/** -> theory and applications of logistic regression.
+**logistic_regression/** -> theory and applications of logistic regression for dual classification.
+
+**naive_bayes/** -> theory and applications of Naive Bayes for text classification using Rotten Tomatoes Dataset
 
 If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
