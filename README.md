@@ -1,5 +1,5 @@
-#
-Springboard - Data Science Bootcamp (in progress)
+
+# Springboard - Data Science Bootcamp (in progress).
 
 550+ hours of hands-on curriculum over 6-months timeline:
 
@@ -9,9 +9,15 @@ Springboard - Data Science Bootcamp (in progress)
 
 Mastering skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
 
+## Capstone projects.
+
 **capstone1/** -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
+
+Machine learning for classification and feature selection: logistic regression, random forest, SVM.
  
 Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
+
+## Mini - projects.
 
 **data_wrangling_json/** -> data warangling using JSON files.
 
