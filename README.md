@@ -35,7 +35,7 @@ https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
 **logistic_regression/** -> theory and applications of logistic regression for dual classification.
 
-**clustering/* -> applying K-Means, Affinity propagation, Spectral, DBSCAN clustering and PCA on the dataset from John Foreman's book "Data Smart".  
+**clustering/** -> applying K-Means, Affinity propagation, Spectral, DBSCAN clustering and PCA on the dataset from John Foreman's book "Data Smart".  
 
 **naive_bayes/** -> theory and applications of Naive Bayes for text classification using Rotten Tomatoes Dataset.
 
