@@ -13,8 +13,8 @@ Mastering skills in Python, SQL, data analysis, data visualization, hypothesis t
 
 **capstone1/** -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
 
-Machine learning for classification and feature selection: logistic regression, random forest, SVM.
- 
+Machine learning for classification and feature selection: logistic regression, random forest, SVM, voting classifier.
+
 Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 ## Mini - projects.
