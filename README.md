@@ -41,4 +41,6 @@ https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
 **naive_bayes/** -> theory and applications of Naive Bayes for text classification using Rotten Tomatoes Dataset.
 
+**pyspark_project/** -> Spark datasets and dataframes, Spark SQL, binary classifiaction models using Spark ML: linear regression, XGBoost, random forest. In application to "Adult dataset" from UCI repository: https://archive.ics.uci.edu/ml/datasets/adult
+
 If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
