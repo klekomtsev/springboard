@@ -15,7 +15,7 @@ Mastering skills in Python, SQL, data analysis, data visualization, hypothesis t
 
 Machine learning for classification and feature selection: logistic regression, random forest, SVM, XGBoost, and voting classifier based on the above four.
 
-Final report is available in the folder.
+Final report is available in capstone1/ folder.
 
 Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
