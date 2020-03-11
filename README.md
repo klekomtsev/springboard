@@ -43,4 +43,10 @@ https://www.kaggle.com/easonlai/sample-insurance-claim-prediction-dataset
 
 **pyspark_project/** -> Spark datasets and dataframes, Spark SQL, binary classifiaction models using Spark ML: linear regression, XGBoost, random forest. In application to "Adult dataset" from UCI repository: https://archive.ics.uci.edu/ml/datasets/adult
 
+## Take-home challenges.
+
+**ultimate_challenge/** -> data challenge on solving a customer retention problem using machine learning and statistical experiments/hypothesis testing.
+
+**relax_challenge/** -> data challenge on predicting most important factors in customer adoption/retention using logistic regression in statsmodels and random forest in sklearn.
+
 If Jupyter notebook is not rendering correctly please use: https://nbviewer.jupyter.org
