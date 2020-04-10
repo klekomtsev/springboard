@@ -12,6 +12,10 @@ Data story -> data_story.ipynb
 
 Hypothesis testing -> hypothesis_testing.ipynb
 
-Machine learning -> machine_learning_oversampled.ipynb
+Machine learning (using oversampling) -> machine_learning_oversampled.ipynb
 
-Report -> report.pdf
+Machine learning (without oversampling) -> machine_learning.ipynb
+
+Report summarizing the project -> report.pdf
+
+Slides summarizing the project -> slides.pdf

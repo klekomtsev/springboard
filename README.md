@@ -9,7 +9,7 @@
 
 Mastering skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
 
-## Capstone projects.
+## Prediction of credit card defaults.
 
 **capstone1/** -> data wrangling, data story and hypothesis testing for the first capstone project on the credit card defaults.
 
