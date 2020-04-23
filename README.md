@@ -1,5 +1,5 @@
 
-# Springboard - Data Science Bootcamp (in progress).
+# Springboard - Data Science Career Track.
 
 550+ hours of hands-on curriculum over 6-months timeline:
 
